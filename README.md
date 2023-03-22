@@ -1,4 +1,4 @@
-# digital images prototype
+# Digital Imaging Prototype - Software
 
 This repository contains the scripts developed in Python to obtain colorgrams using the digital images prototype described in my master's research at PPGQ-UFPR. To use it, follow these three steps:
 ▫️First step: download all the files available in this directory 
